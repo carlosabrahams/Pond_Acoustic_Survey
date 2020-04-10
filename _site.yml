@@ -1,0 +1,8 @@
+name: "Pond_Acoustic_Survey"
+navbar:
+  title: "Pond Acoustic Survey"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
