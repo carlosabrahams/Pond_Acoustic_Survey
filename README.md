@@ -1,4 +1,4 @@
-# Pond_Acoustic_Survey
+# Pond Acoustic Survey - Draft Protocol
 
 This is a draft protocol for a pond acoustic survey.  It's intended for use with a single recorder/hydrophone, and for short site visits. 
 It's therefore useful to be employed when gathering recordings from a number of ponds within a region, and/or for repeat visits to a single waterbody.
