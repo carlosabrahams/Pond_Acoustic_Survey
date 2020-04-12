@@ -1,9 +1,25 @@
 ---
-title: "My Website"
+title: "Pond Acoustic Survey"
 ---
+***
 
-Hello, Website!
+## Introduction
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+This is a draft protocol for a pond acoustic survey, allowing the underwater 'soundscape' to be recorded. It’s intended for use with a single recorder/hydrophone, and for short site visits. It’s therefore useful to be employed when gathering recordings from a number of ponds within a region, and/or for repeat visits to a single waterbody.
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+The protocol sets out a standard for recording at the pond, and collection of associated environmental data that can be used to help interpret recordings. The environmental data is based on existing systems already implemented in the UK, and should allow comparison with these other datasets.
+
+We welcome testing of the method - and any contributions or comments on how to improve it.  
+  
+***
+
+## Contributors
+
+Carlos Abrahams @abr_eco
+
+Jack Greenhalgh @crayfishjack
+
+***
+![](IMG_7773.jpg)
+
+

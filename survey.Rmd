@@ -1,0 +1,50 @@
+# Survey Protocol
+***
+
+## Introduction
+
+Acoustic surveys are starting to be used to research the ecology of freshwaters and to assess their conservation value and management. Studies have used acoustic recording methods to study the differences between the soundscapes of ponds over a spatial area, and to track their dynamics over long time periods. Acoustic recordings produce a standardised, permanent dataset, which can be repeatedly analysed, and subject to quality assurance checks.
+
+Despite the potential benefits for acoutic monitoring in freshwaters, there are currently no recognised methods for a standardised survey.  This document sets out a draft protocol for assessing small freshwaters such as ponds, and invites feedback from contributors to further develop good practice.
+
+This protocol is intended to be implemented by a wide range of users, who may not have substantial equipment available. It is intended for short-term visits to different sites, and does not require permanent installations of sensors, or more than one recorder/hydrophone set. It is therefore suitable for coverage of a number of ponds over a survey area, where single or multiple short visits are conducted to each pond. 
+
+The basic sound sample recorded at each site visit will consist of a total 10-minute recording, but split into ten equal samples taken at different locations around the pond. This should be accompanied by the gathering of information about the site visit and the pond environment.
+
+
+***
+
+## Draft Survey Protocol
+
+### Recording the sound sample
+
+To allow for potential variation across the waterbody, a sample will consist of ten one-minute recordings taken around the edge of the pond. 
+
+The hydrophone should be deployed at 10cm water depth, and allowed to settle prior to starting the recording. The hydrophone should  be relocated between sub-sample recordings, to equally cover the full range of habitats present in the waterbody, e.g. marginal vegetation, submerged vegetation and open water.  
+
+In practical terms (and depending on the model of recording device used), it may be easier in the field to record a single sound file for the pond sample, and separate each one-minute sub-sample with a voice notification or electronic 'slate' so that the file can be separated into one-minute files during later analysis.
+
+     
+
+### Recording equipment 
+
+The make and model of recorder should be noted, together with settings such as gain, and the use of frequency filters. The hydrophone should have  a flat response across the range of audible frequencies.   
+
+### Audio settings
+
+Recordings  should be made as non-compressed .WAV files, with a sample rate of 48 kHz and at least 16-bit depth.        
+
+### Environmental information
+
+Environmental information about the pond habitat should be recorded using the field survey form.  This has been designed for compatibility with information collected for two existing survey methods: [Great Crested Newt Habitat Suitability Index - ARG Advice Note 5](https://www.arguk.org/component/docman/?task=doc_download&gid=9&Itemid=10), and Freshwater Habitats Trust [PSYM](https://freshwaterhabitats.org.uk/wp-content/uploads/2019/12/PSYM-MANUAL-AUG-2019.pdf). Further information on field assessment of the recorded environmental variables can be found in the linked documents.
+
+### Metadata recording
+
+For each site visit, record the date/time, surveyor name, sampling  location and recorder/microphone identifiers. A photograph of the pond should be taken. Weather conditions during the survey period (especially the occurrence of rain) should also  be recorded.  
+
+A standard data form is provided to allow metadata and environment variables for the waterbody to be recorded. 
+
+### Data analysis
+
+Acoustic recordings can be analysed in a variety of ways.  However, the protocol here lends itself to analysis using acoustic indices.  The one-minute sub-samples can be processed to produce individual acoustic index scores, and then averaged across the ten-minute site visit sample to create a mean value and maximum-minimum range for the visit. These values can then be assessed across a number of site visits, with metadata and environmental information being used as variables with the analysis.
+

@@ -1,0 +1,61 @@
+# Field Data Form 
+***
+
+
+| **Data  Required**                                           | **Type**   | **Example**       |
+| ------------------------------------------------------------ | ---------- | ----------------- |
+| Surveyor                                                     | Text       | J.Smith           |
+| Survey  Date                                                 | Date       | 26/06/2019        |
+| Start Time                                                   | hh:mm      | 14:35             |
+| Pond  Ref No                                                 | Integer    | 3                 |
+| Pond  Name/Location                                          | Text       | Smithy  Pond      |
+| Pond  Latitude                                               | Decimal    | 52.345            |
+| Pond  Longitude                                              | Decimal    | -1.233            |
+|                                                              |            |                   |
+| Recorder Make/Model                                          | Text       | Tascam DR-100     |
+| Hydrophone Make/Model                                        | Text       | JRF Model C       |
+| Sample Rate  (kHz)                                           | Integer    | 48                |
+| Bit-depth                                                    | Integer    | 24                |
+| Gain setting  (dB)                                           | Integer    | 12                |
+|                                                              |            |                   |
+| Air temperature (˚C)                                         | Integer    | 15                |
+| Rain? (yes = 1/no = 0)                                       | Boolean    | 0  (no)       |
+| Cloud cover %                                                | Integer  % | 20                |
+|                                                              |            |                   |
+| Pond  Area m2 (at highest water level)                       | Integer    | 110               |
+| Inflow  (present = 1/absent = 0)                             | Boolean    | 0  (absent)       |
+| Permanence  (dries never, rarely, sometimes, annually)       | Text       | Rarely            |
+| Water  quality (good, moderate, poor, bad)                   | Text       | Moderate          |
+| Shading  of perimeter (% of pond perimeter overhung)         | Integer  % | 25                |
+| Macrophyte  cover (at pond surface) %                        | Integer  % | 35                |
+| Waterfowl  impact (absent/minor/major)                       | Text       | Absent            |
+| Fish  present? (Absent, possible, minor popn, major popn)    | Text       | Minor             |
+| Terrestrial  habitat quality around pond (Good, moderate, poor, none) | Text       | Moderate          |
+|                                                              |            |                   |
+| Photograph  references                                       | Text       | 134.jpg           |
+|                                                              |            |                   |
+| Audio  file references                                       | 1          | 20190626_0037.wav |
+|                                                              | 2          | 20190626_0038.wav |
+|                                                              | 3          | 20190626_0039.wav |
+|                                                              | 4          | 20190626_0040.wav |
+|                                                              | 5          | 20190626_0041.wav |
+|                                                              | 6          | 20190626_0042.wav |
+|                                                              | 7          | 20190626_0043.wav |
+|                                                              | 8          | 20190626_0044.wav |
+|                                                              | 9          | 20190626_0045.wav |
+|                                                              | 10         | 20190626_0046.wav |
+|                                                              |            |                   |
+| Optional - water chemistry                                   |            |                   |
+| pH                                                           |  Decimal   |   6.8             |
+| Dissolved Oxygen (mg/L)                                      |  Decimal   |   10.5            |
+| Total dissolved solids (mg/L)                                |  Decimal   |   850             |
+| Conductivity (µS/cm)                                         |  Integer   |   1350            |
+| Water temperature (°C)                                       |  Decimal   |   14.5            |
+|                                                              |            |                   |
+
+
+
+ 
+
+
+
