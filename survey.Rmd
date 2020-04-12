@@ -1,4 +1,7 @@
-# Survey Protocol
+---
+title: "Survey Protocol"
+---
+
 ***
 
 ## Introduction
@@ -36,7 +39,7 @@ Recordings  should be made as non-compressed .WAV files, with a sample rate of 4
 
 ### Environmental information
 
-Environmental information about the pond habitat should be recorded using the field survey form.  This has been designed for compatibility with information collected for two existing survey methods: [Great Crested Newt Habitat Suitability Index - ARG Advice Note 5](https://www.arguk.org/component/docman/?task=doc_download&gid=9&Itemid=10), and Freshwater Habitats Trust [PSYM](https://freshwaterhabitats.org.uk/wp-content/uploads/2019/12/PSYM-MANUAL-AUG-2019.pdf). Further information on field assessment of the recorded environmental variables can be found in the linked documents.
+Environmental information about the pond habitat should be recorded using the field survey form (PDF available for download [here](PAS_field_data_form.pdf)).  This has been designed for compatibility with information collected for two existing survey methods: [Great Crested Newt Habitat Suitability Index - ARG Advice Note 5](https://www.arguk.org/component/docman/?task=doc_download&gid=9&Itemid=10), and Freshwater Habitats Trust [PSYM](https://freshwaterhabitats.org.uk/wp-content/uploads/2019/12/PSYM-MANUAL-AUG-2019.pdf). Further information on field assessment of the recorded environmental variables can be found in the linked documents.
 
 ### Metadata recording
 

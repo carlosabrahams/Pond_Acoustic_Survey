@@ -11,7 +11,7 @@
 
 
 
-<title>Field Data Form</title>
+<title>Pond Acoustic Survey</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -292,269 +292,26 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Field Data Form</h1>
+<h1 class="title toc-ignore">Pond Acoustic Survey</h1>
 
 </div>
 
 
-<p>A PDF of this form is available for download <a href="PAS_field_data_form.pdf">here</a></p>
 <hr />
-<table>
-<colgroup>
-<col width="68%" />
-<col width="11%" />
-<col width="19%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th><strong>Data Required</strong></th>
-<th><strong>Type</strong></th>
-<th><strong>Example</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Surveyor</td>
-<td>Text</td>
-<td>J.Smith</td>
-</tr>
-<tr class="even">
-<td>Survey Date</td>
-<td>Date</td>
-<td>26/06/2019</td>
-</tr>
-<tr class="odd">
-<td>Start Time</td>
-<td>hh:mm</td>
-<td>14:35</td>
-</tr>
-<tr class="even">
-<td>Pond Ref No</td>
-<td>Integer</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>Pond Name/Location</td>
-<td>Text</td>
-<td>Smithy Pond</td>
-</tr>
-<tr class="even">
-<td>Pond Latitude</td>
-<td>Decimal</td>
-<td>52.345</td>
-</tr>
-<tr class="odd">
-<td>Pond Longitude</td>
-<td>Decimal</td>
-<td>-1.233</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Recorder Make/Model</td>
-<td>Text</td>
-<td>Tascam DR-100</td>
-</tr>
-<tr class="even">
-<td>Hydrophone Make/Model</td>
-<td>Text</td>
-<td>JRF Model C</td>
-</tr>
-<tr class="odd">
-<td>Sample Rate (kHz)</td>
-<td>Integer</td>
-<td>48</td>
-</tr>
-<tr class="even">
-<td>Bit-depth</td>
-<td>Integer</td>
-<td>24</td>
-</tr>
-<tr class="odd">
-<td>Gain setting (dB)</td>
-<td>Integer</td>
-<td>12</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Air temperature (˚C)</td>
-<td>Integer</td>
-<td>15</td>
-</tr>
-<tr class="even">
-<td>Rain? (yes = 1/no = 0)</td>
-<td>Boolean</td>
-<td>0 (no)</td>
-</tr>
-<tr class="odd">
-<td>Cloud cover %</td>
-<td>Integer %</td>
-<td>20</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Pond Area m2 (at highest water level)</td>
-<td>Integer</td>
-<td>110</td>
-</tr>
-<tr class="even">
-<td>Inflow (present = 1/absent = 0)</td>
-<td>Boolean</td>
-<td>0 (absent)</td>
-</tr>
-<tr class="odd">
-<td>Permanence (dries never, rarely, sometimes, annually)</td>
-<td>Text</td>
-<td>Rarely</td>
-</tr>
-<tr class="even">
-<td>Water quality (good, moderate, poor, bad)</td>
-<td>Text</td>
-<td>Moderate</td>
-</tr>
-<tr class="odd">
-<td>Shading of perimeter (% of pond perimeter overhung)</td>
-<td>Integer %</td>
-<td>25</td>
-</tr>
-<tr class="even">
-<td>Macrophyte cover (at pond surface) %</td>
-<td>Integer %</td>
-<td>35</td>
-</tr>
-<tr class="odd">
-<td>Waterfowl impact (absent/minor/major)</td>
-<td>Text</td>
-<td>Absent</td>
-</tr>
-<tr class="even">
-<td>Fish present? (Absent, possible, minor popn, major popn)</td>
-<td>Text</td>
-<td>Minor</td>
-</tr>
-<tr class="odd">
-<td>Terrestrial habitat quality around pond (Good, moderate, poor, none)</td>
-<td>Text</td>
-<td>Moderate</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Photograph references</td>
-<td>Text</td>
-<td>134.jpg</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>Audio file references</td>
-<td>1</td>
-<td>20190626_0037.wav</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>2</td>
-<td>20190626_0038.wav</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>3</td>
-<td>20190626_0039.wav</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>4</td>
-<td>20190626_0040.wav</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>5</td>
-<td>20190626_0041.wav</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>6</td>
-<td>20190626_0042.wav</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>7</td>
-<td>20190626_0043.wav</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>8</td>
-<td>20190626_0044.wav</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td>9</td>
-<td>20190626_0045.wav</td>
-</tr>
-<tr class="even">
-<td></td>
-<td>10</td>
-<td>20190626_0046.wav</td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>Optional - water chemistry</td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>pH</td>
-<td>Decimal</td>
-<td>6.8</td>
-</tr>
-<tr class="even">
-<td>Dissolved Oxygen (mg/L)</td>
-<td>Decimal</td>
-<td>10.5</td>
-</tr>
-<tr class="odd">
-<td>Total dissolved solids (mg/L)</td>
-<td>Decimal</td>
-<td>850</td>
-</tr>
-<tr class="even">
-<td>Conductivity (µS/cm)</td>
-<td>Integer</td>
-<td>1350</td>
-</tr>
-<tr class="odd">
-<td>Water temperature (°C)</td>
-<td>Decimal</td>
-<td>14.5</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>This is a draft protocol for a pond acoustic survey, allowing the underwater ‘soundscape’ to be recorded. It’s intended for use with a single recorder/hydrophone, and for short site visits. It’s therefore useful to be employed when gathering recordings from a number of ponds within a region, and/or for repeat visits to a single waterbody.</p>
+<p>The protocol sets out a standard for recording at the pond, and collection of associated environmental data that can be used to help interpret recordings. The environmental data is based on existing systems already implemented in the UK, and should allow comparison with these other datasets.</p>
+<p>We welcome testing of the method - and any contributions or comments on how to improve it.</p>
+<hr />
+</div>
+<div id="contributors" class="section level2">
+<h2>Contributors</h2>
+<p>Carlos Abrahams <span class="citation">@abr_eco</span></p>
+<p>Jack Greenhalgh <span class="citation">@crayfishjack</span></p>
+<hr />
+<p><img src="IMG_7773.jpg" /></p>
+</div>
 
 
 

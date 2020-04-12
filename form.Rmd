@@ -1,9 +1,10 @@
 ---
-output:
-  word_document: default
-  html_document: default
+title: "Field Data Form"
 ---
-# Field Data Form 
+
+
+A PDF of this form is available for download [here](PAS_field_data_form.pdf)
+
 ***
 
 
