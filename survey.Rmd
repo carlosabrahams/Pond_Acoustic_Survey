@@ -25,7 +25,7 @@ To allow for potential variation across the waterbody, a sample will consist of 
 
 The hydrophone should be deployed at 10cm water depth, and allowed to settle prior to starting the recording. The hydrophone should  be relocated between sub-sample recordings, to equally cover the full range of habitats present in the waterbody, e.g. marginal vegetation, submerged vegetation and open water.  
 
-In practical terms (and depending on the model of recording device used), it may be easier in the field to record a single sound file for the pond sample, and separate each one-minute sub-sample with a voice notification or electronic 'slate' so that the file can be separated into one-minute files during later analysis.
+In practical terms (and depending on the model of recording device used), it may be easier in the field to record a single 10-minute sound file for the pond sample, and separate each one-minute sub-sample during the analysis stage later. To do this the recording can simply be paused after each one minute period, or a voice notification or electronic 'slate' inserted while recording, so that the file can be separated into one-minute sections.
 
      
 
@@ -39,7 +39,7 @@ Recordings  should be made as non-compressed .WAV files, with a sample rate of 4
 
 ### Environmental information
 
-Environmental information about the pond habitat should be recorded using the field survey form (PDF available for download [here](PAS_field_data_form.pdf)).  This has been designed for compatibility with information collected for two existing survey methods: [Great Crested Newt Habitat Suitability Index - ARG Advice Note 5](https://www.arguk.org/component/docman/?task=doc_download&gid=9&Itemid=10), and Freshwater Habitats Trust [PSYM](https://freshwaterhabitats.org.uk/wp-content/uploads/2019/12/PSYM-MANUAL-AUG-2019.pdf). Further information on field assessment of the recorded environmental variables can be found in the linked documents.
+Environmental information about the pond habitat should be recorded using the field survey form (PDF available for download [here](PAS_field_data_form_v2.pdf)) [updated 15 April 2020].  This has been designed for compatibility with information collected for two existing survey methods: [Great Crested Newt Habitat Suitability Index - ARG Advice Note 5](https://www.arguk.org/component/docman/?task=doc_download&gid=9&Itemid=10), and Freshwater Habitats Trust [PSYM](https://freshwaterhabitats.org.uk/wp-content/uploads/2019/12/PSYM-MANUAL-AUG-2019.pdf). Further information on field assessment of the recorded environmental variables can be found in the linked documents.
 
 ### Metadata recording
 
